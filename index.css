@@ -110,7 +110,7 @@ h1 {
 }
 
 .hero {
-    background-image: url("../glass.jpg");
+    background-image: url("glass.jpg");
     background-size: cover;
     padding-top: 50px;
     height: 150px;
